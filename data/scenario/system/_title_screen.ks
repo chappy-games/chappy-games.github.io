@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/chappy_sanpomichi.png"  ]
+[preload  storage="./data/bgimage/room1.png"  ]
+[preload  storage="./data/fgimage/default/masiro000aa1.png"  ]
+[preload  storage="./data/fgimage/default/masiro000d11ab.png"  ]
+[return]

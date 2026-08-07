@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/bk000.png"  ]
+[preload  storage="./data/fgimage/default/masiro004aa.png"  ]
+[preload  storage="./data/fgimage/default/masiro004bb.png"  ]
+[preload  storage="./data/fgimage/default/masiro004cc.png"  ]
+[preload  storage="./data/fgimage/default/bk000.png"  ]
+[return]

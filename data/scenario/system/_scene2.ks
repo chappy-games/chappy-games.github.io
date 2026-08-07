@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/bk002.png"  ]
+[preload  storage="./data/fgimage/default/s1a.png"  ]
+[preload  storage="./data/fgimage/default/s1b.png"  ]
+[preload  storage="./data/fgimage/default/s1c.png"  ]
+[return]
