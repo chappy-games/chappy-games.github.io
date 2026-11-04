@@ -3,5 +3,5 @@
 [preload  storage="./data/bgimage/ku.png"  ]
 [preload  storage="./data/fgimage/default/setting_bar_base.png"  ]
 [preload  storage="./data/fgimage/default/setting_knob.png"  ]
-[preload  storage="./data/bgimage/ChatGPT_画像_2026年11月2日_00_38_22.png"  ]
+[preload  storage="./data/bgimage/cre.png"  ]
 [return]
