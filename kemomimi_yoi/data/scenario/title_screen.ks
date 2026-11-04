@@ -362,7 +362,7 @@ document.removeEventListener("mouseup", up, true);
 [s  ]
 *credit
 
-[bg  time="100"  method="crossfade"  storage="ChatGPT_画像_2026年11月2日_00_38_22.png"  ]
+[bg  time="100"  method="crossfade"  storage="cre.png"  ]
 [button  storage="title_screen.ks"  target="*title1"  graphic="setting_back.png"  width="300"  height="80"  x="329"  y="513"  _clickable_img=""  ]
 [s  ]
 *exit
