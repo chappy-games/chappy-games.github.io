@@ -585,12 +585,12 @@ logo.css({
 [endscript]
 
 ; ファンファーレ終了待ち
-[wse]
+[wait time=2000]
 
 ; BGMを元の音量に戻す
-[changevol target="bgm" volume=40 time=500]
+[changevol target="bgm" volume=40 time=4000]
 
-[wait time=600]
+[wait time=2000]
 
 [free layer=4 name="mofumofu_bonus"]
 
